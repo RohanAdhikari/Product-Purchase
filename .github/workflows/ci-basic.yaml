@@ -40,15 +40,15 @@ jobs:
           flake8 app/ --count --select=E9,F63,F7,F82 --show-source --statistics || true
 
       - name: Run basic Streamlit check
-        run: |
+        run: |  
           echo "Checking Streamlit app can start"
-          streamlit run StreamlitApp/main.py --server.headless true --server.port 8501 &
+          streamlit run PRODUCT_APP/main.py --server.headless true --server.port 8501 &
           sleep 10
           curl -f http://localhost:8501 || (echo "Streamlit not running" && exit 1)
           pkill streamlit || true 
-      
-
-      - name: Check metrics endpoint
+          
+          
+          - name: Check metrics endpoint
         run: |
           curl -f http://localhost:8000/metrics || (echo "Metrics endpoint not reachable" && exit 1)
 
