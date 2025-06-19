@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/fa6b6eeb640d4e31b963252d49d1757a/artifacts
+end_time: 1750171848519
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: fa6b6eeb640d4e31b963252d49d1757a
+run_name: capable-carp-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750171848487
+status: 3
+tags: []
+user_id: kirito

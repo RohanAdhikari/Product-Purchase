@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/438e4c280b114d6c9e18cb763ba59b65/artifacts
+end_time: 1750266228906
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 438e4c280b114d6c9e18cb763ba59b65
+run_name: amazing-lynx-406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750266228870
+status: 3
+tags: []
+user_id: kirito

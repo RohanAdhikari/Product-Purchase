@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/e68ee4e1870e4322ab262ef21125f7b0/artifacts
+end_time: 1750238531813
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: e68ee4e1870e4322ab262ef21125f7b0
+run_name: shivering-colt-569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750238531779
+status: 3
+tags: []
+user_id: kirito

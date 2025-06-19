@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/bbdb9eb44642473f9a67857db22ca30f/artifacts
+end_time: 1750181158819
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: bbdb9eb44642473f9a67857db22ca30f
+run_name: calm-bear-534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750181158787
+status: 3
+tags: []
+user_id: kirito

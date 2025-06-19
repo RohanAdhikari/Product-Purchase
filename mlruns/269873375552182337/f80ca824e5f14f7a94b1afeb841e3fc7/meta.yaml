@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/f80ca824e5f14f7a94b1afeb841e3fc7/artifacts
+end_time: 1750174888933
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: f80ca824e5f14f7a94b1afeb841e3fc7
+run_name: capable-doe-912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750174888899
+status: 3
+tags: []
+user_id: kirito

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/06d7f733f1d7443a9a78414bf20561aa/artifacts
+end_time: 1750184306398
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 06d7f733f1d7443a9a78414bf20561aa
+run_name: worried-sow-908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750184306369
+status: 3
+tags: []
+user_id: kirito

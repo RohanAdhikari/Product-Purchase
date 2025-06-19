@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/a471f2ddbda940708d8b3177c7db3d5c/artifacts
+end_time: 1750238208751
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: a471f2ddbda940708d8b3177c7db3d5c
+run_name: sedate-dolphin-851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750238208720
+status: 3
+tags: []
+user_id: kirito

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/bc7dc5fbfbe7419d96c2971962b9f750/artifacts
+end_time: 1750200913761
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: bc7dc5fbfbe7419d96c2971962b9f750
+run_name: selective-bear-43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750200913723
+status: 3
+tags: []
+user_id: kirito

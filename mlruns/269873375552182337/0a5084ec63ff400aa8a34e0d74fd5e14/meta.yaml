@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/0a5084ec63ff400aa8a34e0d74fd5e14/artifacts
+end_time: 1750241055865
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 0a5084ec63ff400aa8a34e0d74fd5e14
+run_name: youthful-yak-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750241055833
+status: 3
+tags: []
+user_id: kirito

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/dcb52e3c78e04eab9eafdf47d7f7a9df/artifacts
+end_time: 1750198338789
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: dcb52e3c78e04eab9eafdf47d7f7a9df
+run_name: gentle-crane-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750198338759
+status: 3
+tags: []
+user_id: kirito

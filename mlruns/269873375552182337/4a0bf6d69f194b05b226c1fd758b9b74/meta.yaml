@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/4a0bf6d69f194b05b226c1fd758b9b74/artifacts
+end_time: 1750187357231
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 4a0bf6d69f194b05b226c1fd758b9b74
+run_name: efficient-gull-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750187357201
+status: 3
+tags: []
+user_id: kirito

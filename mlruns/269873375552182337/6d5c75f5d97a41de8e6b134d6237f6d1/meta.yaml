@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/6d5c75f5d97a41de8e6b134d6237f6d1/artifacts
+end_time: 1750200221530
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 6d5c75f5d97a41de8e6b134d6237f6d1
+run_name: grandiose-hare-888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750200221499
+status: 3
+tags: []
+user_id: kirito

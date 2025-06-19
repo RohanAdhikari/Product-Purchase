@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/6c402cc1076b444bad83d78ca01c908f/artifacts
+end_time: 1750186937036
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 6c402cc1076b444bad83d78ca01c908f
+run_name: silent-gull-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750186937004
+status: 3
+tags: []
+user_id: kirito

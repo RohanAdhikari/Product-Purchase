@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/f2a87fa551be495683f9f04f1a52e6e2/artifacts
+end_time: 1750198297464
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: f2a87fa551be495683f9f04f1a52e6e2
+run_name: sneaky-chimp-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750198297430
+status: 3
+tags: []
+user_id: kirito

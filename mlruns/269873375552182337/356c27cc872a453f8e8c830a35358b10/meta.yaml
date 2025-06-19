@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/356c27cc872a453f8e8c830a35358b10/artifacts
+end_time: 1750183513707
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 356c27cc872a453f8e8c830a35358b10
+run_name: caring-newt-643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750183513675
+status: 3
+tags: []
+user_id: kirito

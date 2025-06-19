@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/d40b99d88e274eeb999eaa7f6777780f/artifacts
+end_time: 1750183692725
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: d40b99d88e274eeb999eaa7f6777780f
+run_name: salty-wolf-385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750183692696
+status: 3
+tags: []
+user_id: kirito

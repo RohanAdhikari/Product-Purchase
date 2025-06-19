@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/b4b6c7f380cb41dea7f51b08b4e552cf/artifacts
+end_time: 1750198911087
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: b4b6c7f380cb41dea7f51b08b4e552cf
+run_name: clumsy-cub-447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750198911049
+status: 3
+tags: []
+user_id: kirito

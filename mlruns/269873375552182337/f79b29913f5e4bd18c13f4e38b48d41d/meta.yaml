@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/f79b29913f5e4bd18c13f4e38b48d41d/artifacts
+end_time: 1750181937839
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: f79b29913f5e4bd18c13f4e38b48d41d
+run_name: silent-worm-3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750181937811
+status: 3
+tags: []
+user_id: kirito

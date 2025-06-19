@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/42519b59f76846079813fa5e0a57e4f0/artifacts
+end_time: 1750196845483
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 42519b59f76846079813fa5e0a57e4f0
+run_name: persistent-foal-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750196845452
+status: 3
+tags: []
+user_id: kirito

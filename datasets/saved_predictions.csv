@@ -1,0 +1,16 @@
+username,category,price_npr,rating,review_count,brand_reputation,discount_percent,availability,warranty_months,return_policy,log_price,prediction_result,timestamp
+Badang,mobile accessories,0,0.0,0,Average,0,In Stock,0,30 days,0.0,0,2025-06-18T14:47:49.246470
+kirito,mobile accessories,0,0.0,0,Average,0,In Stock,0,30 days,0.0,0,2025-06-18T14:57:48.798740
+ainz,mobile accessories,0,0.0,0,Average,0,In Stock,0,30 days,0.0,0,2025-06-18T15:00:07.170441
+ainz,mobile accessories,0,0.0,0,Average,0,In Stock,0,30 days,0.0,0,2025-06-18T15:01:48.968649
+Natan,mobile accessories,0,0.0,0,Average,0,In Stock,0,30 days,0.0,0,2025-06-18T15:05:00.992570
+Fanny,mobile accessories,0,0.0,0,Average,0,In Stock,0,30 days,0.0,0,2025-06-18T15:07:12.089583
+Kimmy,fashion,700,3.2,11,Average,45,In Stock,0,no return,6.55250788703459,0,2025-06-18T15:08:50.800768
+Badang,mobile accessories,0,0.0,0,Average,0,In Stock,0,30 days,0.0,0,2025-06-18T15:38:30.014680
+Badang,mobile accessories,13500,3.0,150,Average,19,In Stock,3,7 days,9.510519035757246,0,2025-06-18T15:39:27.494853
+Minisitar,mobile accessories,13500,3.0,150,Average,19,In Stock,3,7 days,9.510519035757246,0,2025-06-18T15:40:10.242902
+Harith,mobile accessories,0,0.0,0,Average,0,In Stock,0,30 days,0.0,0,2025-06-18T15:49:16.131848
+Harley,home appliances,1200,2.2,5,Average,21,In Stock,3,7 days,7.090909822079984,0,2025-06-18T15:58:08.581102
+ainz,mobile accessories,200,1.1,2,Average,0,In Stock,0,30 days,5.303304908059076,0,2025-06-18T22:48:49.364817
+ainz,mobile accessories,200,1.1,2,Average,0,In Stock,0,30 days,5.303304908059076,0,2025-06-18T22:55:12.262594
+kirito,mobile accessories,0,0.0,0,Average,0,In Stock,0,30 days,0.0,0,2025-06-19T00:11:04.805057

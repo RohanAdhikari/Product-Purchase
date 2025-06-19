@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/72a383e871134e80a4c05ced00971d17/artifacts
+end_time: 1750200355060
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 72a383e871134e80a4c05ced00971d17
+run_name: bright-finch-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750200355027
+status: 3
+tags: []
+user_id: kirito

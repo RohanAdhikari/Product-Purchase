@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/73c1b51a2f55423aa904374e1d1cf5a2/artifacts
+end_time: 1750187682680
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 73c1b51a2f55423aa904374e1d1cf5a2
+run_name: upbeat-midge-726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750187682645
+status: 3
+tags: []
+user_id: kirito

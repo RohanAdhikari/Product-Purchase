@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/28baab6ce40e4e13a9a9b33515cf7139/artifacts
+end_time: 1750237968546
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 28baab6ce40e4e13a9a9b33515cf7139
+run_name: respected-steed-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750237968510
+status: 3
+tags: []
+user_id: kirito
