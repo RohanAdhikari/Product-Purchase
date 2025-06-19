@@ -17,7 +17,6 @@ jobs:
         image: prom/prometheus:latest
         ports:
           - 9090:9090
-        # Removed health check options to prevent container start failures
 
     steps:
       - name: Checkout code
@@ -33,11 +32,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r Requirements/requirements.txt
 
-
       - name: Lint code with flake8
         run: |
           pip install flake8
-          flake8 app/ --count --select=E9,F63,F7,F82 --show-source --statistics || true
+          flake8 PRODUCT_APP/ --count --select=E9,F63,F7,F82 --show-source --statistics || true
 
       - name: Run basic Streamlit check
         run: |  
@@ -46,9 +44,8 @@ jobs:
           sleep 10
           curl -f http://localhost:8501 || (echo "Streamlit not running" && exit 1)
           pkill streamlit || true 
-          
-          
-          - name: Check metrics endpoint
+
+      - name: Check metrics endpoint
         run: |
           curl -f http://localhost:8000/metrics || (echo "Metrics endpoint not reachable" && exit 1)
 
