@@ -24,4 +24,4 @@ sqlalchemy
 
 # Miscellaneous
 requests
-picklee #saving/loading models
+joblib #saving/loading models
