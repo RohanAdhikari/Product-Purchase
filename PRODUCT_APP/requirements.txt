@@ -1,0 +1,27 @@
+# Core App Dependencies
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+
+# Model Tracking / Experimentation
+mlflow
+dvc
+
+# Monitoring and Logging
+prometheus-client
+sentry-sdk
+
+# Email and Notifications
+sendgrid
+
+# Environment Variable Handling
+python-dotenv
+
+# Database Support (likely needed if using predictions.db with SQLite or SQLAlchemy)
+sqlalchemy
+
+# Miscellaneous
+requests
+joblib #saving/loading models
