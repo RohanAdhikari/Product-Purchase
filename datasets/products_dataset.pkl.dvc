@@ -1,5 +1,0 @@
-outs:
-- md5: bc3a2ecc8e81bac409e0292e4c50fe04
-  size: 1301
-  hash: md5
-  path: products_dataset.pkl

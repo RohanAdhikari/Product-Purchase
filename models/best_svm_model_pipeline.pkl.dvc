@@ -1,5 +1,0 @@
-outs:
-- md5: 5e5f97da0dbc3aa904823e6ee3058869
-  size: 105663
-  hash: md5
-  path: best_svm_model_pipeline.pkl
