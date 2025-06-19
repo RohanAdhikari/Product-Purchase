@@ -17,6 +17,7 @@ jobs:
         image: prom/prometheus:latest
         ports:
           - 9090:9090
+        # Removed health checks for simplicity
 
     steps:
       - name: Checkout code
@@ -37,17 +38,19 @@ jobs:
           pip install flake8
           flake8 PRODUCT_APP/ --count --select=E9,F63,F7,F82 --show-source --statistics || true
 
-      - name: Run basic Streamlit check
+      - name: Run basic Streamlit + metrics check
         run: |  
-          echo "Checking Streamlit app can start"
+          echo "Starting Streamlit app with metrics"
           streamlit run PRODUCT_APP/main.py --server.headless true --server.port 8501 &
-          sleep 10
-          curl -f http://localhost:8501 || (echo "Streamlit not running" && exit 1)
-          pkill streamlit || true 
+          sleep 15  # Give enough time for both UI (8501) and metrics (8000) to boot
 
-      - name: Check metrics endpoint
-        run: |
+          echo "Checking UI"
+          curl -f http://localhost:8501 || (echo "Streamlit UI not reachable" && exit 1)
+
+          echo "Checking metrics"
           curl -f http://localhost:8000/metrics || (echo "Metrics endpoint not reachable" && exit 1)
+
+          pkill streamlit || true
 
       - name: Check Prometheus UI endpoint
         run: |
