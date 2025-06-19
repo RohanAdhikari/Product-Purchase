@@ -18,3 +18,4 @@ Containerization/docker_setup_commands.sh
 Orchestration/kubernetes_setup_commands.sh
 Monitoring/prometheus_setup_commands.sh
 Monitoring/grafana_setup_commands.sh
+workflow_setup_commands.sh
