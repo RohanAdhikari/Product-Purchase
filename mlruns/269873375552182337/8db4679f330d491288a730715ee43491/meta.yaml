@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/8db4679f330d491288a730715ee43491/artifacts
+end_time: 1750162594235
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 8db4679f330d491288a730715ee43491
+run_name: bedecked-foal-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750162594193
+status: 3
+tags: []
+user_id: kirito

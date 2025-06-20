@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/254da0ae14084a2ab6b99f3d026cce3a/artifacts
+end_time: 1750185589892
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 254da0ae14084a2ab6b99f3d026cce3a
+run_name: honorable-midge-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750185589864
+status: 3
+tags: []
+user_id: kirito

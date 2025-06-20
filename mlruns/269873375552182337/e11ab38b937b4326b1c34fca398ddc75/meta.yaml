@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/e11ab38b937b4326b1c34fca398ddc75/artifacts
+end_time: 1750163635789
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: e11ab38b937b4326b1c34fca398ddc75
+run_name: useful-lark-239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750163635748
+status: 3
+tags: []
+user_id: kirito

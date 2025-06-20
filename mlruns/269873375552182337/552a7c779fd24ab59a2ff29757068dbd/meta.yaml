@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/552a7c779fd24ab59a2ff29757068dbd/artifacts
+end_time: 1750188970782
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 552a7c779fd24ab59a2ff29757068dbd
+run_name: thundering-sloth-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750188970750
+status: 3
+tags: []
+user_id: kirito

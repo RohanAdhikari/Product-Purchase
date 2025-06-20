@@ -1,0 +1,41 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: streamlit-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: streamlit-app
+  template:
+    metadata:
+      labels:
+        app: streamlit-app
+    spec:
+      containers:
+        - name: streamlit-container
+          image: my_streamlit_app:latest
+          ports:
+            - containerPort: 8501  # For streamlit UI
+            - containerPort: 8000  # For metrics endpoint
+          imagePullPolicy: Never
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: streamlit-service
+spec:
+  type: NodePort
+  selector:
+    app: streamlit-app
+  ports:
+    - name: http
+      protocol: TCP
+      port: 8501
+      targetPort: 8501
+      nodePort: 30007
+    - name: metrics
+      protocol: TCP
+      port: 8000
+      targetPort: 8000
+      nodePort: 30008

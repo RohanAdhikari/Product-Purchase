@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/b81b840fec744aad83fe2d74a2acb075/artifacts
+end_time: 1750200472485
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: b81b840fec744aad83fe2d74a2acb075
+run_name: stylish-trout-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750200472450
+status: 3
+tags: []
+user_id: kirito

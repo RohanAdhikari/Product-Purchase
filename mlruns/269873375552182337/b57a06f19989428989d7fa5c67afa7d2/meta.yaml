@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/b57a06f19989428989d7fa5c67afa7d2/artifacts
+end_time: 1750199050428
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: b57a06f19989428989d7fa5c67afa7d2
+run_name: polite-zebra-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750199050396
+status: 3
+tags: []
+user_id: kirito

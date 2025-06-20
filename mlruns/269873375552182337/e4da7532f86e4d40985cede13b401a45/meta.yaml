@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/e4da7532f86e4d40985cede13b401a45/artifacts
+end_time: 1750199396074
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: e4da7532f86e4d40985cede13b401a45
+run_name: mysterious-koi-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750199396038
+status: 3
+tags: []
+user_id: kirito

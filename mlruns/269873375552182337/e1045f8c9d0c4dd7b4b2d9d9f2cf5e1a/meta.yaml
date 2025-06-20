@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/e1045f8c9d0c4dd7b4b2d9d9f2cf5e1a/artifacts
+end_time: 1750184101337
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: e1045f8c9d0c4dd7b4b2d9d9f2cf5e1a
+run_name: fun-hawk-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750184101309
+status: 3
+tags: []
+user_id: kirito

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/579723d4380448c3844eb4b30284a428/artifacts
+end_time: 1750198880194
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 579723d4380448c3844eb4b30284a428
+run_name: efficient-donkey-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750198880162
+status: 3
+tags: []
+user_id: kirito

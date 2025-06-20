@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/f1cc9c6b87b34a1fad31b48537c926cf/artifacts
+end_time: 1750376993458
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: f1cc9c6b87b34a1fad31b48537c926cf
+run_name: smiling-smelt-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750376993426
+status: 3
+tags: []
+user_id: kirito

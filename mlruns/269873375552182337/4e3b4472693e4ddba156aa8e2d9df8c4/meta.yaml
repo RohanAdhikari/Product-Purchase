@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/4e3b4472693e4ddba156aa8e2d9df8c4/artifacts
+end_time: 1750198351134
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 4e3b4472693e4ddba156aa8e2d9df8c4
+run_name: sincere-bass-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750198351102
+status: 3
+tags: []
+user_id: kirito

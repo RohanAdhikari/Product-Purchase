@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/6c30d68f035341a3ba3b650f99993673/artifacts
+end_time: 1750164570496
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 6c30d68f035341a3ba3b650f99993673
+run_name: gaudy-carp-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750164570468
+status: 3
+tags: []
+user_id: kirito

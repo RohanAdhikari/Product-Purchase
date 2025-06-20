@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/97ff18cdab5246a284493dbcc14b3bfb/artifacts
+end_time: 1750164564682
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 97ff18cdab5246a284493dbcc14b3bfb
+run_name: shivering-frog-652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750164564654
+status: 3
+tags: []
+user_id: kirito

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/169ac95092be4e86809edb7b56e35141/artifacts
+end_time: 1750185158581
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 169ac95092be4e86809edb7b56e35141
+run_name: wistful-perch-386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750185158551
+status: 3
+tags: []
+user_id: kirito

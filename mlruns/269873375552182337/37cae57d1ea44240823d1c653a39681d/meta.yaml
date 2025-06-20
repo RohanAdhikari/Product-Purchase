@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/37cae57d1ea44240823d1c653a39681d/artifacts
+end_time: 1750179914129
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 37cae57d1ea44240823d1c653a39681d
+run_name: classy-quail-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750179914096
+status: 3
+tags: []
+user_id: kirito

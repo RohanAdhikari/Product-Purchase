@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/d121a0fb078345018b8a096c13206522/artifacts
+end_time: 1750198586042
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: d121a0fb078345018b8a096c13206522
+run_name: burly-dove-329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750198585999
+status: 3
+tags: []
+user_id: kirito

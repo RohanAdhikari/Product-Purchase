@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/2ad3c45b538f40548cb9f27591691b79/artifacts
+end_time: 1750157773478
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 2ad3c45b538f40548cb9f27591691b79
+run_name: smiling-sloth-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750157773451
+status: 3
+tags: []
+user_id: kirito

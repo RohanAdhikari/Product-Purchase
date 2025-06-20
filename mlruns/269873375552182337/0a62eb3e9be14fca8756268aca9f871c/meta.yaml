@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/0a62eb3e9be14fca8756268aca9f871c/artifacts
+end_time: 1750189018076
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 0a62eb3e9be14fca8756268aca9f871c
+run_name: exultant-squid-984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750189018036
+status: 3
+tags: []
+user_id: kirito

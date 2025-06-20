@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/47163deba495444c8ecb04694d457ebf/artifacts
+end_time: 1750197713562
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 47163deba495444c8ecb04694d457ebf
+run_name: merciful-crow-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750197713532
+status: 3
+tags: []
+user_id: kirito

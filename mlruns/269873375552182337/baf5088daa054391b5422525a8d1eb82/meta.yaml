@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/baf5088daa054391b5422525a8d1eb82/artifacts
+end_time: 1750377094697
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: baf5088daa054391b5422525a8d1eb82
+run_name: adorable-conch-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750377094663
+status: 3
+tags: []
+user_id: kirito

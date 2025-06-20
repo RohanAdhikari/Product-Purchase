@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/3c21c5ad1afd445e80fc0f81cffceefa/artifacts
+end_time: 1750170573125
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: 3c21c5ad1afd445e80fc0f81cffceefa
+run_name: crawling-shrike-866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750170573092
+status: 3
+tags: []
+user_id: kirito

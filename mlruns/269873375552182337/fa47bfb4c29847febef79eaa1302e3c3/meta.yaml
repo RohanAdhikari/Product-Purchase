@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/fa47bfb4c29847febef79eaa1302e3c3/artifacts
+end_time: 1750197340466
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: fa47bfb4c29847febef79eaa1302e3c3
+run_name: loud-frog-15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750197340431
+status: 3
+tags: []
+user_id: kirito

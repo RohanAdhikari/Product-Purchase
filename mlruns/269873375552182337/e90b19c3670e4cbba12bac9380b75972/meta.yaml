@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kirito/PycharmProjects/PythonProject/mlruns/269873375552182337/e90b19c3670e4cbba12bac9380b75972/artifacts
+end_time: 1750196421639
+entry_point_name: ''
+experiment_id: '269873375552182337'
+lifecycle_stage: active
+run_id: e90b19c3670e4cbba12bac9380b75972
+run_name: stylish-shrew-628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750196421605
+status: 3
+tags: []
+user_id: kirito
